@@ -1,0 +1,21 @@
+[submodule "libraries/master/deliteful"]
+	path = libraries/master/deliteful
+	url = https://github.com/seb-pereira/deliteful.git
+[submodule "libraries/master/delite"]
+	path = libraries/master/delite
+	url = https://github.com/seb-pereira/delite.git
+[submodule "libraries/master/requirejs-dplugins"]
+	path = libraries/master/requirejs-dplugins
+	url = https://github.com/seb-pereira/requirejs-dplugins.git
+[submodule "libraries/master/requirejs-text"]
+	path = libraries/master/requirejs-text
+	url = https://github.com/requirejs/text.git
+[submodule "libraries/master/dojo"]
+	path = libraries/master/dojo
+	url = https://github.com/seb-pereira/dojo.git
+[submodule "libraries/master/dcl"]
+	path = libraries/master/dcl
+	url = https://github.com/uhop/dcl.git
+[submodule "libraries/master/requirejs"]
+	path = libraries/master/requirejs
+	url = https://github.com/jrburke/requirejs.git
